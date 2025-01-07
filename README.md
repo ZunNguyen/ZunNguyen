@@ -9,5 +9,5 @@
   </a>
 </p>
 
-![](https://github-readme-stats.vercel.app/api?username=Ershen&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=Ershen&theme=radical&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats" width="800"><br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ershen&theme=radical&hide_border=false)
