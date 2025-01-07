@@ -2,7 +2,7 @@
 
 <p align="left"
   
-  <a href="https://www.facebook.com/profile.php?id=100005912176152" target="_blank">
+  <a href="https://www.facebook.com/profile.php?id=100005912176152/" target="_blank">
     <img src="https://cdn.simpleicons.org/facebook/0866FF" width="40" height="40">
 </a>
 
