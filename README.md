@@ -1,11 +1,11 @@
 #### 👋 I'm Dung or Ershen, a person on the path to becoming a game developer 🕹️🎮
 
 <p align="left">
-  <a href="https://www.facebook.com/profile.php?id=100005912176152" target="_blank">
-    <img src="https://cdn.simpleicons.org/facebook/1877f2" alt="Facebook" width="40" height="40" style="border-radius: 50%; border: 2px solid #1877f2; padding: 5px; transition: transform 0.3s;">
+  <a href="https://www.facebook.com/profile.php?id=100005912176152" target="_blank" style="margin-right: 15px; display: inline-block;">
+    <img src="https://cdn.simpleicons.org/facebook/1877f2" width="40" height="40">
   </a>
   <a href="https://ershen.itch.io/" target="_blank">
-    <img src="https://cdn.simpleicons.org/itchdotio/0077b5" alt="Itch.io" width="40" height="40" style="border-radius: 50%; border: 2px solid #0077b5; padding: 5px; transition: transform 0.3s;">
+    <img src="https://cdn.simpleicons.org/itchdotio/FF3850" width="40" height="40">
   </a>
 </p>
 
