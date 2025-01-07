@@ -10,4 +10,4 @@
 </p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=ZunNguyen&theme=radical&hide_border=false&include_all_commits=true&count_private=true&token=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" alt="GitHub Stats" width="800"><br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ershen&theme=radical&hide_border=false" alt="GitHub Stats" width="800">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ZunNguyen&theme=radical&hide_border=false" alt="GitHub Stats" width="800">
