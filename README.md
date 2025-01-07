@@ -9,5 +9,5 @@
   </a>
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ZunNguyen&theme=radical&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats" width="800"><br/>
+<img src="https://github-readme-stats.vercel.app/api?username=ZunNguyen&theme=radical&hide_border=false&include_all_commits=true&count_private=true&token=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" alt="GitHub Stats" width="800"><br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ershen&theme=radical&hide_border=false" alt="GitHub Stats" width="800">
